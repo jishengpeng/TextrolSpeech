@@ -1,5 +1,5 @@
 # Textrolspeech
-The offical repository of Textrolspeech (accepted by 2024 ICASSP)
+The official repository of Textrolspeech (accepted by 2024 ICASSP)
 
 [![ICASSP Paper](https://img.shields.io/badge/ICASSP-Paper-blue.svg)](https://ieeexplore.ieee.org/abstract/document/10445879)
 [![demo](https://img.shields.io/badge/%F0%9F%A4%97%20Textrolspeech-Demo-yellow)](https://sall-e.github.io/)
