@@ -8,7 +8,9 @@ The official repository of Textrolspeech (accepted by 2024 ICASSP)
 <img src="textrolspeech_fig1.png">
 <br>
 
-
+## 🔥 News
+- *2024.06*: We release ControlSpeech on arxiv and opensource ControlToolkit.
+- *2023.12*: [Textrolspeech](https://github.com/jishengpeng/TextrolSpeech) is accepted by ICASSP 2024.
 
 ## 🔥Tips
 We have two versions available on the web, so keep an eye on the version that ends up in the ICASSP Conference Proceedings, not the arxiv version. We have further updated the details of the dataset and related experimental results in the ICASSP version. Moreover, we will release two papers based on textrolspeech before 2024 June and welcome you to continue to follow the textrolspeech series.
