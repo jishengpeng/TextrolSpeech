@@ -9,6 +9,7 @@ The official repository of Textrolspeech (accepted by 2024 ICASSP)
 <br>
 
 ## 🔥 News
+- *2024.08*: 🎉🎉 We have open-sourced a SOTA Codec model [WavTokenizer](https://github.com/jishengpeng/WavTokenizer), which can reconstruct speech, music, and audio using only 40 tokens one-second!
 - *2024.06*: We release ControlSpeech on arxiv and opensource [ControlToolkit](https://github.com/jishengpeng/ControlSpeech).
 - *2023.12*: [Textrolspeech](https://github.com/jishengpeng/TextrolSpeech) is accepted by ICASSP 2024.
 
